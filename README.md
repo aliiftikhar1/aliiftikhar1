@@ -1,10 +1,5 @@
 <p align="center">
-<img align="left" src="./banner.svg" width="100%" alt="Ali Iftikhar, Full-Stack Engineer. Build, ship and scale web products.">
-<img align="left" src="./banner-left.svg" width="31.6%" alt="">
-<a href="https://aliiftikhar.com/"><img align="left" src="./banner-portfolio.svg" width="27%" alt="Portfolio: aliiftikhar.com"></a>
-<a href="https://github.com/zylo-solution"><img align="left" src="./banner-zylo.svg" width="20.5%" alt="Zylo Technologies"></a>
-<a href="https://www.google.com/maps/place/Lahore,+Pakistan"><img align="left" src="./banner-location.svg" width="20.7%" alt="Lahore, Pakistan"></a>
-<br clear="all">
+<img align="top" src="./banner.svg" width="100%" alt="Ali Iftikhar, Full-Stack Engineer. Build, ship and scale web products."><img align="top" src="./banner-left.svg" width="31.6%" alt=""><a href="https://aliiftikhar.com/"><img align="top" src="./banner-portfolio.svg" width="27%" alt="Portfolio: aliiftikhar.com"></a><a href="https://github.com/zylo-solution"><img align="top" src="./banner-zylo.svg" width="20.5%" alt="Zylo Technologies"></a><a href="https://www.google.com/maps/place/Lahore,+Pakistan"><img align="top" src="./banner-location.svg" width="20.7%" alt="Lahore, Pakistan"></a>
 </p>
 
 ---
