@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Ali%20Iftikhar&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Backend%20Lead%20%C2%B7%20Mentor&descAlignY=60&descSize=17" alt="Ali Iftikhar banner" width="100%" />
+<img src="./banner.svg" alt="Ali Iftikhar — Full-Stack Engineer, Backend Lead, Mentor" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aliiftikhar.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aliiftikhar.com/)
 [![Zylo](https://img.shields.io/badge/Zylo_Technologies-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zylo-solution)
