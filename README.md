@@ -10,15 +10,6 @@ I'm a **full-stack engineer and backend lead at [Zylo Technologies](https://gith
 
 I care about the part of engineering that happens *before* the code: understanding the business, communicating clearly, and prompting AI tools well. Strong fundamentals plus those skills are what make a developer valuable.
 
-### What I'm working on
-
-| | |
-|---|---|
-| **Zylo Dispatch** | Product owner and backend lead: sales modules, AI outbound calling (Vapi), audit trails, and a documented API. |
-| **ZARM** | AI-readiness assessment platform for organizations, built on a questionnaire engine and consultant-reviewed reports. |
-| **Papayo** | AI product work with the Papayo team. |
-| **Macroline** | My micro-SaaS side project: a Chipotle-style macro and calorie calculator. [Try it](https://macroline-calculator.vercel.app) |
-
 ### Mentorship
 
 I run the **full-stack internship program at Zylo**. I teach interns to think like consultants, not just coders: ask the right questions, understand the client, communicate well, and use AI as a force multiplier.
@@ -37,17 +28,6 @@ I run the **full-stack internship program at Zylo**. I teach interns to think li
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliiftikhar1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiftikhar1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=aliiftikhar1&theme=tokyonight&hide_border=true" alt="Streak" height="150" />
-
-</div>
 
 ### Let's work together
 
