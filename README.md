@@ -1,12 +1,11 @@
-<div align="center">
-
-<img src="./banner.svg" alt="Ali Iftikhar — Full-Stack Engineer, Backend Lead, Mentor" width="100%" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aliiftikhar.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aliiftikhar.com/)
-[![Zylo](https://img.shields.io/badge/Zylo_Technologies-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zylo-solution)
-[![Location](https://img.shields.io/badge/Lahore-Pakistan-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white)](https://aliiftikhar.com/)
-
-</div>
+<p align="center">
+<img align="left" src="./banner.svg" width="100%" alt="Ali Iftikhar, Full-Stack Engineer. Build, ship and scale web products.">
+<img align="left" src="./banner-left.svg" width="31.6%" alt="">
+<a href="https://aliiftikhar.com/"><img align="left" src="./banner-portfolio.svg" width="27%" alt="Portfolio: aliiftikhar.com"></a>
+<a href="https://github.com/zylo-solution"><img align="left" src="./banner-zylo.svg" width="20.5%" alt="Zylo Technologies"></a>
+<a href="https://www.google.com/maps/place/Lahore,+Pakistan"><img align="left" src="./banner-location.svg" width="20.7%" alt="Lahore, Pakistan"></a>
+<br clear="all">
+</p>
 
 ---
 
