@@ -4,26 +4,26 @@
 
 ---
 
-### 👋 About me
+### About me
 
 I'm a **full-stack engineer and backend lead at [Zylo Technologies](https://github.com/zylo-solution)**. I turn business problems into shipped software: scoping with clients, designing the architecture, and leading the team that builds it.
 
 I care about the part of engineering that happens *before* the code: understanding the business, communicating clearly, and prompting AI tools well. Strong fundamentals plus those skills are what make a developer valuable.
 
-### 🔭 What I'm working on
+### What I'm working on
 
 | | |
 |---|---|
-| 🚚 **Zylo Dispatch** | Product owner and backend lead: sales modules, AI outbound calling (Vapi), audit trails, and a documented API. |
-| 🧠 **ZARM** | AI-readiness assessment platform for organizations, built on a questionnaire engine and consultant-reviewed reports. |
-| 🍯 **Papayo** | AI product work with the Papayo team. |
-| 🌯 **Macroline** | My micro-SaaS side project: a Chipotle-style macro and calorie calculator. [Try it](https://macroline-calculator.vercel.app) |
+| **Zylo Dispatch** | Product owner and backend lead: sales modules, AI outbound calling (Vapi), audit trails, and a documented API. |
+| **ZARM** | AI-readiness assessment platform for organizations, built on a questionnaire engine and consultant-reviewed reports. |
+| **Papayo** | AI product work with the Papayo team. |
+| **Macroline** | My micro-SaaS side project: a Chipotle-style macro and calorie calculator. [Try it](https://macroline-calculator.vercel.app) |
 
-### 🎓 Mentorship
+### Mentorship
 
 I run the **full-stack internship program at Zylo**. I teach interns to think like consultants, not just coders: ask the right questions, understand the client, communicate well, and use AI as a force multiplier.
 
-### 🛠️ Tech I work with
+### Tech I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -38,7 +38,7 @@ I run the **full-stack internship program at Zylo**. I teach interns to think li
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
@@ -49,7 +49,7 @@ I run the **full-stack internship program at Zylo**. I teach interns to think li
 
 </div>
 
-### 🤝 Let's work together
+### Let's work together
 
 I take on client projects: web platforms, AI integrations, and backend systems. If you have something you want built properly, get in touch.
 
